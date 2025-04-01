@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello World! This is the Exercise1 Project.");
+        Console.WriteLine("Hello World! This is the Exercise1 Project,it's focused on getting your name and then returnin your name and a specified order,Thank you!.");
         
 
         
